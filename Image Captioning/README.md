@@ -1,9 +1,9 @@
 # Notebook Structure
--Image Captioning with RNNs
-    -Install starter code
-    -Setup code
--Microsoft COCO
-    -Look at the data
+- Image Captioning with RNNs
+    - Install starter code
+    - Setup code
+- Microsoft COCO
+    - Look at the data
 -Recurrent Neural Networks
     -Vanilla RNN: step forward
     -Vanilla RNN: step backward
