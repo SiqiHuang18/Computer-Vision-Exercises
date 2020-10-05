@@ -26,7 +26,7 @@
   - Caption sampling
     - Train the net
     - Test-time sampling
-- Image Captioning with LSTMs*
+- Image Captioning with LSTMs
 - LSTM
   - LSTM: step forward
   - LSTM: forward
