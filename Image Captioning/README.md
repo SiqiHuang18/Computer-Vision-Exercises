@@ -1,5 +1,5 @@
-#Notebook Structure
-**Image Captioning with RNNs**
+# Notebook Structure
+**Image Captioning with RNNs** <br />
   Install starter code
   Setup code
 **Microsoft COCO**
