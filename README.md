@@ -4,4 +4,4 @@ This repository contains my implementation of some classic deep learning tasks b
 
 - Image Captioning with RNN and LSTM
 - Classifer on Medical Transcription with RNN and Self-attention
-- One Stage and Two Stage Detectors
+- One Stage Detector Yolo Implementation
